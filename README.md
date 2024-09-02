@@ -32,3 +32,5 @@ Pedestrian and Cyclist Detection: Includes features for detecting and accommodat
 User Feedback and Reporting: Provides interfaces for monitoring performance and gathering feedback from users to continuously improve system effectiveness.
 
 Energy Efficiency: Often incorporates energy-saving technologies, such as LED signals, to reduce operational costs and environmental impact.
+![image](https://github.com/user-attachments/assets/d3c9ae7e-c7c8-44ef-a614-6d7b1528fb20)
+
